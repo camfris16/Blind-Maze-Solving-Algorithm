@@ -1,4 +1,4 @@
-# Blind-Maze-Solving-Algorithm-
+# Blind-Maze-Solving-Algorithm
 My implementation of Tremaux's Algorithm for a Maze Solving LEJOS EV3 Robot. Works for unseen grid-based mazes with cycles and dead-ends.
 
 Junctions are points where other paths meet the current path in use.
